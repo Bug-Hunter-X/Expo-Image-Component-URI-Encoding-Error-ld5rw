@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Image` component with a URI that contains certain special characters, such as spaces or accented characters.  The component fails to load the image and throws an error, often without a clear error message.
